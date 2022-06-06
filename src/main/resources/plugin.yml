@@ -1,0 +1,6 @@
+name: OreChainFinder
+version: '${project.version}'
+main: at.gotzi.orechain.OreChainFinder
+api-version: 1.18
+authors: [ Gotzi ]
+description: --

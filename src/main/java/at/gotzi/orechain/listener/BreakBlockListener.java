@@ -1,4 +1,4 @@
-package at.gotzi.enderchest.listener;
+package at.gotzi.orechain.listener;
 
 import org.bukkit.Material;
 import org.bukkit.block.Block;
